@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./assets/profile.jpg" width="220" style="border-radius: 50%;" alt="Profile Picture">
+  <img src="./assets/Profile.png" width="220" style="border-radius: 50%;" alt="Profile Picture">
 </p>
 
 # Anish Dangal
