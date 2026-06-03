@@ -1,11 +1,13 @@
-<div align="center">
+<img width="1024" height="1024" alt="487761554_632835162840159_5305075585347981267_n" src="https://github.com/user-attachments/assets/fb484f6d-4684-49f3-8d81-5fd631030d0a" /><div align="center">
 
-<p align="center">
+
  
-  <img 
-    src="https://scontent.fbir7-1.fna.fbcdn.net/v/t39.30808-6/487761554_632835162840159_5305075585347981267_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=53a332&_nc_ohc=EXNHNZ6Jd1sQ7kNvwFb1MoR&_nc_oc=AdpCNbtjlYqEkjT6MCiQLHxuFLT5FfnRS5uWqy1g3qRE6wQD_0jAxzoKBed29F3oY2qbuXHkPZaMmvJRHlfzPM0v&_nc_zt=23&_nc_ht=scontent.fbir7-1.fna&_nc_gid=DDGdVtaPagZihAZKf-BqGQ&_nc_ss=7a3a8&oh=00_Af0WPYtwr2P9-ZaDRjUbrsONr-A-CzpfxhJpAe7FJw6ydw&oe=69E23EF1" height="220" width="220" border-radius="50%" object-fit = "cover" />
- 
+
+   <p align="center">
+  <img src="./assets/profile.jpg" width="220" alt="Profile Picture">
 </p>
+ 
+
 
 # Anish Dangal
 
